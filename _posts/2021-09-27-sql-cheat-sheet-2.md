@@ -21,6 +21,7 @@ SELECT * FROM students WHERE (score < 80 OR score > 90) AND gender = 'M';
 如果不加括号，条件运算按照 `NOT`、`AND`、`OR` 的优先级进行。
 
 常用的条件表达式：
+
 | 条件               | 举例             |
 | :---------------- | :-------------- |
 | 使用 `<>` 判断不相等 | score <> 80     |
@@ -83,6 +84,7 @@ SELECT COUNT(*) boys FROM students WHERE gender = 'M';
 ```
 
 一些聚合函数：
+
 | 函数               | 说明             |
 | :---------------- | :-------------- |
 | SUM | 计算某一列的合计值 |
