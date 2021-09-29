@@ -172,3 +172,6 @@ FROM students s
 FULL OUTER JOIN classes c
 ON s.class_id = c.id;
 ```
+
+## References
+- [廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1177760294764384/1218728424164736)
