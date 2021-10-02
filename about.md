@@ -26,6 +26,6 @@ titles:
 key: page-about
 ---
 
-<p align="center">
+<p style="text-align:center;">
   <img src="{{ site.url }}/omegacoustic-#92A8D1.png" alt="omegacoustic">
 </p>
