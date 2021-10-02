@@ -27,5 +27,5 @@ key: page-about
 ---
 
 <p style="text-align:center;">
-  <img src="{{ site.url }}/omegacoustic-92A8D1.png" alt="omegacoustic" width="100">
+  <img src="{{ site.url }}/omegacoustic.png" alt="omegacoustic" width="200">
 </p>
