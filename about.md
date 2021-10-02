@@ -26,7 +26,6 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/omegacoustic/omegacoustic.github.io/main/omegacoustic.png)
-
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
-
+<div style="text-align:center">
+![omegacoustic](https://raw.githubusercontent.com/omegacoustic/omegacoustic.github.io/main/omegacoustic-#92A8D1.png)
+</div>
