@@ -26,6 +26,6 @@ titles:
 key: page-about
 ---
 
-<div style="text-align:center">
-![omegacoustic](https://raw.githubusercontent.com/omegacoustic/omegacoustic.github.io/main/omegacoustic-#92A8D1.png)
-</div>
+<p align="center">
+  <img src="{{ site.url }}/omegacoustic-#92A8D1.png" alt="omegacoustic">
+</p>
