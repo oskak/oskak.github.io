@@ -122,3 +122,6 @@ INSERT INTO statistics (class_id, average) SELECT class_id, AVG(score) FROM stud
 ```
 SELECT * FROM students FORCE INDEX (idx_class_id) WHERE class_id = 1 ORDER BY id DESC;
 ```
+
+## References
+- [廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1177760294764384/1179611171910432)
