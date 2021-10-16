@@ -4,6 +4,7 @@ tags: [Selenium]
 ---
 
 ## WebDriver 常用 API
+
 | 方法 | 描述 |
 |------|------|
 | get(String url）| 访问目标 url 地址，打开网页 |
@@ -18,6 +19,7 @@ tags: [Selenium]
 | getWindowHandles() | 获取所有窗口的句柄 |
 
 ## WebElement 常用 API
+
 | 方法 | 描述 |
 |-----|------|
 | click() |	对元素进行点击 |
