@@ -1,6 +1,6 @@
 ---
 title: Python Review 1
-tags: [Python]
+tags: [Python3]
 ---
 
 ## 输入和输出
