@@ -1,6 +1,6 @@
 ---
 title: Django and MySQL (Django ORM)
-tags: [Django, MySQL, Web]
+tags: [Django, MySQL]
 ---
 
 ## Create a MySQL user for Django development

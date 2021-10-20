@@ -1,6 +1,6 @@
 ---
 title: 初识 Elasticsearch
-tags: [Elasticsearch, Search]
+tags: [Elasticsearch]
 ---
 
 ## Elasticsearch 简单介绍
