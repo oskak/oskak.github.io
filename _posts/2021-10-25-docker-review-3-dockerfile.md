@@ -1,5 +1,5 @@
 ---
-title: Docker Review 3 (Dockerfile 镜像定制)
+title: Docker Review 3 (Dockerfile 定制镜像)
 tags: [Docker]
 ---
 
