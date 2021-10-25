@@ -1,6 +1,6 @@
 ---
 title: Install MongoDB via Homebrew, Connect via Djongo
-tags: [MongoDB, Homebrew, Django]
+tags: [MongoDB, Django]
 ---
 
 ## Download MongoDB

@@ -1,6 +1,6 @@
 ---
 title: Set Up Ruby and Jekyll
-tags: [Jekyll, Ruby]
+tags: [Misc, Ruby]
 ---
 
 ## Uninstall Ruby on Mac
