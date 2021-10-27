@@ -1,6 +1,6 @@
 ---
-title: RESTful 规范的 API (DRF)
-tags: [Django]
+title: RESTful 规范的 API
+tags: [API]
 ---
 
 ## 再谈序列化
