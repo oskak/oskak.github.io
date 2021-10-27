@@ -1,6 +1,6 @@
 ---
 title: Creating a Django project
-tags: [Django, Python3]
+tags: [Django]
 ---
 
 ## Creating a Django project
