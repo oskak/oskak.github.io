@@ -1,6 +1,6 @@
 ---
 title: 面试之数组篇
-tags: [Algorithm, Interview]
+tags: [Algorithm]
 ---
 
 ## 数组基础

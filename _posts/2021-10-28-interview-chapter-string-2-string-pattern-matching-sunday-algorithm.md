@@ -1,6 +1,6 @@
 ---
 title: 面试之字符串 (二) - 字符串模式匹配[Sunday 算法]
-tags: [Interview, Algorithm]
+tags: [Algorithm]
 ---
 
 ## Q1 实现 strStr()

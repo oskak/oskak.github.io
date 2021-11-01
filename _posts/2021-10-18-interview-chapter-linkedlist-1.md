@@ -1,6 +1,6 @@
 ---
 title: 面试之链表篇（一）
-tags: [Algorithm, Interview]
+tags: [Algorithm]
 ---
 
 ## 链表基础

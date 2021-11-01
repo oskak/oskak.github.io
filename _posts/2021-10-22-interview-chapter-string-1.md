@@ -1,6 +1,6 @@
 ---
 title: 面试之字符串 (一)
-tags: [Interview, Algorithm]
+tags: [Algorithm]
 ---
 
 ## Q1 反转字符串

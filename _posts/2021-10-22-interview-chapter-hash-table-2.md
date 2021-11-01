@@ -1,6 +1,6 @@
 ---
 title: 面试之 Hash Table 篇（二）
-tags: [Algorithm, Interview]
+tags: [Algorithm]
 ---
 
 ## Q1 四数相加 II

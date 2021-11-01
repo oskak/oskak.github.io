@@ -1,6 +1,6 @@
 ---
 title: 面试之链表篇（二）
-tags: [Algorithm, Interview]
+tags: [Algorithm]
 ---
 
 ## Q1 反转链表
