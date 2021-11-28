@@ -49,6 +49,10 @@ class Solution:
 
 笔记：我们习惯阅读中缀表达式，但对计算机来说后缀表达式是比较友好的。
 
+<img src="{{ site.baseurl }}/assets/images/leetcode9.png" style="border:1px solid black;">
+
+<img src="{{ site.baseurl }}/assets/images/leetcode10.png" style="border:1px solid black;">
+
 ```
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
