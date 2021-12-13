@@ -1,5 +1,5 @@
 ---
-title: Introduction to NumPy Basic
+title: Introduction to NumPy
 tags: [NumPy]
 ---
 
