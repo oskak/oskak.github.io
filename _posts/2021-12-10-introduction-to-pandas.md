@@ -1,5 +1,5 @@
 ---
-title: Introduction to Pandas (1)
+title: Introduction to Pandas
 tags: [Pandas]
 ---
 
