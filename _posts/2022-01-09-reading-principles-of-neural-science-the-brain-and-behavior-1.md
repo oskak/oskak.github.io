@@ -40,6 +40,9 @@ Each cerebral hemisphere is divided into four distinct lobes (脑叶): frontal (
 
 Two important regions of cerebral cortex not visible on the surface include the cingulate cortex (扣带皮层) and insular cortex (岛叶皮层). The cingulate cortex lies dorsal to the corpus callosum (胼胝体背侧) and is important for regulation of emotion, pain perception, and cognition. The insular cortex, which lies buried within the overlying frontal, parietal, and temporal lobes, plays an important role in emotion, homeostasis (体内平衡), and taste perception (味觉感知).
 
+<img src="{{ site.baseurl }}/assets/images/neuroscience1.png" style="border:1px solid black;">
+<img src="{{ site.baseurl }}/assets/images/neuroscience2.png" style="border:1px solid black;">
+
 ## Visual cortex 视觉皮层
 左右两个大脑半球各有一部分视觉皮层，左半球的视觉皮层从右视野接收讯息，右半球的视觉皮层从左视野接收讯息。
 
